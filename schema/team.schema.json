@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://data.soccerhub.ng/schema/team.schema.json",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "group_id",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "short_name": {
+      "type": "string"
+    },
+    "code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "group_id": {
+      "type": "string"
+    },
+    "logo": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "coach": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "location": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "competition_id": "sagamu-day-2026",
+  "rounds": [
+    {
+      "id": "quarter_final",
+      "name": "Quarter-finals",
+      "matches": []
+    },
+    {
+      "id": "semi_final",
+      "name": "Semi-finals",
+      "matches": []
+    },
+    {
+      "id": "third_place",
+      "name": "Third-place Playoff",
+      "matches": []
+    },
+    {
+      "id": "final",
+      "name": "Final",
+      "matches": []
+    }
+  ],
+  "metadata": {
+    "status": "awaiting_official_qualification_rules"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sagamu-day-2026",
+  "name": "Sagamu Day Football Competition",
+  "short_name": "Sagamu Day",
+  "season": "2026",
+  "edition": 2026,
+  "country": "Nigeria",
+  "state": "Ogun",
+  "city": "Sagamu",
+  "organizer": {
+    "name": "Sagamu Youth Association"
+  },
+  "media_partner": {
+    "name": "SoccerHub",
+    "website": "https://soccerhub.ng",
+    "role": "Official Media Partner"
+  },
+  "status": "upcoming",
+  "format": "group_and_knockout",
+  "team_count": 32,
+  "group_count": 8,
+  "teams_per_group": 4,
+  "group_stage_match_count": 48,
+  "start_date": null,
+  "end_date": null,
+  "logo": null,
+  "description": "Official digital competition data for the Sagamu Day Football Competition 2026.",
+  "data_policy": {
+    "source_of_truth": "SoccerHub competition data repository",
+    "official_data_partner": "SoccerHub"
+  },
+  "last_updated": "2026-09-05T00:00:00+01:00"
+}

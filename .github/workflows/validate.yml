@@ -1,0 +1,35 @@
+name: Validate Competition Data
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate JSON syntax
+        shell: bash
+        run: |
+          set -e
+          find data schema meta -type f -name '*.json' -print0 | while IFS= read -r -d '' file; do
+            echo "Checking $file"
+            python -m json.tool "$file" >/dev/null
+          done
+
+      - name: Check expected competition files
+        shell: bash
+        run: |
+          set -e
+          test -f data/v1/sagamu-day-2026/competition.json
+          test -f data/v1/sagamu-day-2026/groups.json
+          test -f data/v1/sagamu-day-2026/teams.json
+          test -f data/v1/sagamu-day-2026/matches.json
+          test -f data/v1/sagamu-day-2026/standings.json
+          echo "Competition data structure OK"

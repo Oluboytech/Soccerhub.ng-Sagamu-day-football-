@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://data.soccerhub.ng/schema/event.schema.json",
+  "type": "object",
+  "required": [
+    "id",
+    "minute",
+    "type",
+    "team_id"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "minute": {
+      "type": "integer"
+    },
+    "added_time": {
+      "type": "integer"
+    },
+    "type": {
+      "type": "string"
+    },
+    "team_id": {
+      "type": "string"
+    },
+    "player_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "assist_player_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

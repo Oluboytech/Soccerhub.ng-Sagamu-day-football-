@@ -1,0 +1,429 @@
+{
+  "competition_id": "sagamu-day-2026",
+  "groups": [
+    {
+      "group_id": "SD26-G-A",
+      "standings": [
+        {
+          "position": 1,
+          "team_id": "SD26-A01",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 2,
+          "team_id": "SD26-A02",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 3,
+          "team_id": "SD26-A03",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 4,
+          "team_id": "SD26-A04",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group_id": "SD26-G-B",
+      "standings": [
+        {
+          "position": 1,
+          "team_id": "SD26-B01",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 2,
+          "team_id": "SD26-B02",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 3,
+          "team_id": "SD26-B03",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 4,
+          "team_id": "SD26-B04",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group_id": "SD26-G-C",
+      "standings": [
+        {
+          "position": 1,
+          "team_id": "SD26-C01",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 2,
+          "team_id": "SD26-C02",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 3,
+          "team_id": "SD26-C03",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 4,
+          "team_id": "SD26-C04",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group_id": "SD26-G-D",
+      "standings": [
+        {
+          "position": 1,
+          "team_id": "SD26-D01",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 2,
+          "team_id": "SD26-D02",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 3,
+          "team_id": "SD26-D03",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 4,
+          "team_id": "SD26-D04",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group_id": "SD26-G-E",
+      "standings": [
+        {
+          "position": 1,
+          "team_id": "SD26-E01",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 2,
+          "team_id": "SD26-E02",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 3,
+          "team_id": "SD26-E03",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 4,
+          "team_id": "SD26-E04",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group_id": "SD26-G-F",
+      "standings": [
+        {
+          "position": 1,
+          "team_id": "SD26-F01",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 2,
+          "team_id": "SD26-F02",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 3,
+          "team_id": "SD26-F03",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 4,
+          "team_id": "SD26-F04",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group_id": "SD26-G-G",
+      "standings": [
+        {
+          "position": 1,
+          "team_id": "SD26-G01",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 2,
+          "team_id": "SD26-G02",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 3,
+          "team_id": "SD26-G03",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 4,
+          "team_id": "SD26-G04",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group_id": "SD26-G-H",
+      "standings": [
+        {
+          "position": 1,
+          "team_id": "SD26-H01",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 2,
+          "team_id": "SD26-H02",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 3,
+          "team_id": "SD26-H03",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        },
+        {
+          "position": 4,
+          "team_id": "SD26-H04",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 0,
+          "goals_against": 0,
+          "goal_difference": 0,
+          "points": 0
+        }
+      ]
+    }
+  ]
+}

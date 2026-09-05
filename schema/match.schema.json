@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://data.soccerhub.ng/schema/match.schema.json",
+  "type": "object",
+  "required": [
+    "id",
+    "round",
+    "home_team_id",
+    "away_team_id",
+    "status",
+    "score"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "round": {
+      "type": "string"
+    },
+    "group_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "match_number": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "home_team_id": {
+      "type": "string"
+    },
+    "away_team_id": {
+      "type": "string"
+    },
+    "venue_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "status": {
+      "type": "string"
+    },
+    "score": {
+      "type": "object",
+      "required": [
+        "home",
+        "away"
+      ],
+      "properties": {
+        "home": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "away": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "halftime_home": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "halftime_away": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "penalties_home": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "penalties_away": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        }
+      }
+    }
+  }
+}

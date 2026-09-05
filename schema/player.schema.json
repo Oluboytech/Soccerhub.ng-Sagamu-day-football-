@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://data.soccerhub.ng/schema/player.schema.json",
+  "type": "object",
+  "required": [
+    "id",
+    "team_id",
+    "name",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "team_id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "short_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "shirt_number": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "position": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "date_of_birth": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "nationality": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "photo": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "captain": {
+      "type": "boolean"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://data.soccerhub.ng/schema/competition.schema.json",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "season",
+    "organizer",
+    "media_partner"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "short_name": {
+      "type": "string"
+    },
+    "season": {
+      "type": "string"
+    },
+    "edition": {
+      "type": "integer"
+    },
+    "country": {
+      "type": "string"
+    },
+    "state": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "format": {
+      "type": "string"
+    },
+    "team_count": {
+      "type": "integer"
+    },
+    "group_count": {
+      "type": "integer"
+    },
+    "teams_per_group": {
+      "type": "integer"
+    },
+    "group_stage_match_count": {
+      "type": "integer"
+    },
+    "start_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "end_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

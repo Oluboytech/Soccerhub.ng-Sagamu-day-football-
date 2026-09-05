@@ -1,0 +1,93 @@
+{
+  "competition_id": "sagamu-day-2026",
+  "groups": [
+    {
+      "id": "SD26-G-A",
+      "name": "Group A",
+      "order": 1,
+      "teams": [
+        "SD26-A01",
+        "SD26-A02",
+        "SD26-A03",
+        "SD26-A04"
+      ]
+    },
+    {
+      "id": "SD26-G-B",
+      "name": "Group B",
+      "order": 2,
+      "teams": [
+        "SD26-B01",
+        "SD26-B02",
+        "SD26-B03",
+        "SD26-B04"
+      ]
+    },
+    {
+      "id": "SD26-G-C",
+      "name": "Group C",
+      "order": 3,
+      "teams": [
+        "SD26-C01",
+        "SD26-C02",
+        "SD26-C03",
+        "SD26-C04"
+      ]
+    },
+    {
+      "id": "SD26-G-D",
+      "name": "Group D",
+      "order": 4,
+      "teams": [
+        "SD26-D01",
+        "SD26-D02",
+        "SD26-D03",
+        "SD26-D04"
+      ]
+    },
+    {
+      "id": "SD26-G-E",
+      "name": "Group E",
+      "order": 5,
+      "teams": [
+        "SD26-E01",
+        "SD26-E02",
+        "SD26-E03",
+        "SD26-E04"
+      ]
+    },
+    {
+      "id": "SD26-G-F",
+      "name": "Group F",
+      "order": 6,
+      "teams": [
+        "SD26-F01",
+        "SD26-F02",
+        "SD26-F03",
+        "SD26-F04"
+      ]
+    },
+    {
+      "id": "SD26-G-G",
+      "name": "Group G",
+      "order": 7,
+      "teams": [
+        "SD26-G01",
+        "SD26-G02",
+        "SD26-G03",
+        "SD26-G04"
+      ]
+    },
+    {
+      "id": "SD26-G-H",
+      "name": "Group H",
+      "order": 8,
+      "teams": [
+        "SD26-H01",
+        "SD26-H02",
+        "SD26-H03",
+        "SD26-H04"
+      ]
+    }
+  ]
+}
