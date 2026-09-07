@@ -1,0 +1,152 @@
+{
+  "competition_id": "sagamu-day-2026",
+  "description": "Accurately matched team crests from supplied crest ZIP.",
+  "count": 28,
+  "unmatched_scheduled_teams": [
+    "Ipoyin Ade FC",
+    "Ewuoliwo FC",
+    "Isale Oko FC"
+  ],
+  "crests": [
+    {
+      "team": "ogijo-fc",
+      "source": "IMG-20260902-WA0000.jpg",
+      "file": "ogijo-fc.jpg"
+    },
+    {
+      "team": "ewuga-fc",
+      "source": "IMG-20260906-WA0005.jpg",
+      "file": "ewuga-fc.jpg"
+    },
+    {
+      "team": "igbobi-fc",
+      "source": "IMG-20260906-WA0006.jpg",
+      "file": "igbobi-fc.jpg"
+    },
+    {
+      "team": "isoso-fc",
+      "source": "IMG-20260906-WA0007.jpg",
+      "file": "isoso-fc.jpg"
+    },
+    {
+      "team": "sonyindo-fc",
+      "source": "IMG-20260906-WA0008.jpg",
+      "file": "sonyindo-fc.jpg"
+    },
+    {
+      "team": "ayanperuwa-fc",
+      "source": "IMG-20260906-WA0009.jpg",
+      "file": "ayanperuwa-fc.jpg"
+    },
+    {
+      "team": "apaken-fc",
+      "source": "IMG-20260906-WA0010.jpg",
+      "file": "apaken-fc.jpg"
+    },
+    {
+      "team": "ajaka-fc",
+      "source": "IMG-20260906-WA0011.jpg",
+      "file": "ajaka-fc.jpg"
+    },
+    {
+      "team": "agura-fc",
+      "source": "IMG-20260906-WA0012.jpg",
+      "file": "agura-fc.jpg"
+    },
+    {
+      "team": "surulere-fc",
+      "source": "IMG-20260906-WA0016.jpg",
+      "file": "surulere-fc.jpg"
+    },
+    {
+      "team": "igbepa-fc",
+      "source": "IMG-20260906-WA0017.jpg",
+      "file": "igbepa-fc.jpg"
+    },
+    {
+      "team": "oba-orimadegbon-fc",
+      "source": "IMG-20260906-WA0018.jpg",
+      "file": "oba-orimadegbon-fc.jpg"
+    },
+    {
+      "team": "abafon-fc",
+      "source": "IMG-20260906-WA0020.jpg",
+      "file": "abafon-fc.jpg"
+    },
+    {
+      "team": "aladiye-fc",
+      "source": "IMG-20260906-WA0021.jpg",
+      "file": "aladiye-fc.jpg"
+    },
+    {
+      "team": "apele-fc",
+      "source": "IMG-20260906-WA0022.jpg",
+      "file": "apele-fc.jpg"
+    },
+    {
+      "team": "aruba-fc",
+      "source": "IMG-20260906-WA0023.jpg",
+      "file": "aruba-fc.jpg"
+    },
+    {
+      "team": "lowa-ibu-fc",
+      "source": "IMG-20260906-WA0024.jpg",
+      "file": "lowa-ibu-fc.jpg"
+    },
+    {
+      "team": "sabintu-fc",
+      "source": "IMG-20260906-WA0026.jpg",
+      "file": "sabintu-fc.jpg"
+    },
+    {
+      "team": "lalu-fc",
+      "source": "IMG-20260906-WA0027.jpg",
+      "file": "lalu-fc.jpg"
+    },
+    {
+      "team": "agbowa-fc",
+      "source": "IMG-20260906-WA0028.jpg",
+      "file": "agbowa-fc.jpg"
+    },
+    {
+      "team": "isote-fc",
+      "source": "IMG-20260906-WA0029.jpg",
+      "file": "isote-fc.jpg"
+    },
+    {
+      "team": "sabo-fc",
+      "source": "IMG-20260906-WA0030.jpg",
+      "file": "sabo-fc.jpg"
+    },
+    {
+      "team": "sotubo-fc",
+      "source": "IMG-20260906-WA0031.jpg",
+      "file": "sotubo-fc.jpg"
+    },
+    {
+      "team": "latawa-fc",
+      "source": "IMG-20260906-WA0032.jpg",
+      "file": "latawa-fc.jpg"
+    },
+    {
+      "team": "agbele-fc",
+      "source": "IMG-20260906-WA0033.jpg",
+      "file": "agbele-fc.jpg"
+    },
+    {
+      "team": "ilaye-fc",
+      "source": "IMG-20260906-WA0034.jpg",
+      "file": "ilaye-fc.jpg"
+    },
+    {
+      "team": "emuren-fc",
+      "source": "IMG-20260906-WA0035.jpg",
+      "file": "emuren-fc.jpg"
+    },
+    {
+      "team": "idado-fc",
+      "source": "IMG-20260906-WA0036.jpg",
+      "file": "idado-fc.jpg"
+    }
+  ]
+}
