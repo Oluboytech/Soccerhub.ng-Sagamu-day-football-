@@ -1,4 +1,29 @@
 {
   "competition_id": "sagamu-day-2026",
-  "venues": []
+  "venues": [
+    {
+      "id": "SD26-V01",
+      "name": "Ebedei Stadium",
+      "location": "Sagamu",
+      "city": "Sagamu",
+      "state": "Ogun",
+      "capacity": null,
+      "surface": null,
+      "status": "active"
+    },
+    {
+      "id": "SD26-V02",
+      "name": "Sagamu High School",
+      "location": "Sagamu",
+      "city": "Sagamu",
+      "state": "Ogun",
+      "capacity": null,
+      "surface": null,
+      "status": "active"
+    }
+  ],
+  "metadata": {
+    "status": "partial",
+    "note": "Venue directory covers venues confirmed in the official fixture schedule so far. Additional venues will be added as they are confirmed."
+  }
 }

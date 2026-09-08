@@ -1,0 +1,43 @@
+name: Build and validate competition data
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "schema/**"
+      - "scripts/**"
+  pull_request:
+    branches: [main]
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install jsonschema
+
+      - name: Run data pipeline (validate -> compute -> validate)
+        run: bash scripts/build.sh .
+
+      - name: Commit regenerated data files
+        if: github.event_name == 'push'
+        run: |
+          git config user.name "soccerhub-data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add data/v1/sagamu-day-2026/standings.json \
+                  data/v1/sagamu-day-2026/matches-upcoming.json \
+                  data/v1/sagamu-day-2026/matches-results.json \
+                  data/v1/sagamu-day-2026/top-scorers.json \
+                  data/v1/sagamu-day-2026/manifest.json
+          git diff --cached --quiet || git commit -m "chore: recompute derived data [skip ci]"
+          git push

@@ -1,5 +1,6 @@
 {
   "competition_id": "sagamu-day-2026",
+  "count": 48,
   "matches": [
     {
       "id": "SD26-M001",
@@ -1153,14 +1154,5 @@
         "penalties_away": null
       }
     }
-  ],
-  "metadata": {
-    "group_stage_expected_matches": 48,
-    "fixture_status": "official_schedule_confirmed",
-    "first_match_date": "2026-09-15",
-    "last_match_date": "2026-10-07",
-    "total_matches": 48,
-    "timezone": "Africa/Lagos",
-    "note": "Updated official full group-stage fixture schedule supplied for the Sagamu Day Football Competition 2026."
-  }
+  ]
 }

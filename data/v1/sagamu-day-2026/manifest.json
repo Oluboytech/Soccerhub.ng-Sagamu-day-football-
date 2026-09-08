@@ -1,0 +1,115 @@
+{
+  "competition_id": "sagamu-day-2026",
+  "data_version": "2026.09.08.001",
+  "generated_at": "2026-09-08T05:30:55+00:00",
+  "files": [
+    {
+      "file": "competition.json",
+      "path": "/v1/sagamu-day-2026/competition.json",
+      "bytes": 884,
+      "sha256": "f00bfdfde9820cb20ec0a10f694a3f64cdd38c22709f12138228397cfa228008"
+    },
+    {
+      "file": "groups.json",
+      "path": "/v1/sagamu-day-2026/groups.json",
+      "bytes": 1532,
+      "sha256": "5468ac145d66ea499b3d3a96f55a8fa50eb577a7e2e5d191b5e29c20cca68ef8"
+    },
+    {
+      "file": "teams.json",
+      "path": "/v1/sagamu-day-2026/teams.json",
+      "bytes": 8840,
+      "sha256": "f86176d257109647e0bb584f3122feefec7ff6e1fe52d085aa28148e0fbf8805"
+    },
+    {
+      "file": "venues.json",
+      "path": "/v1/sagamu-day-2026/venues.json",
+      "bytes": 692,
+      "sha256": "63946b09c113bbd46e9a12bee9218f59b6f39b3a984e830b046697e2dd6f4310"
+    },
+    {
+      "file": "players.json",
+      "path": "/v1/sagamu-day-2026/players.json",
+      "bytes": 230,
+      "sha256": "8df03476ffaf6899e6e692d9488f7b4bd2ed6edc331e463be6f970d9f27e8f58"
+    },
+    {
+      "file": "matches.json",
+      "path": "/v1/sagamu-day-2026/matches.json",
+      "bytes": 30175,
+      "sha256": "8bdeca0028b70c71150ecf58c0421cf03deafcd43fd960202de658eacc162b30"
+    },
+    {
+      "file": "matches-upcoming.json",
+      "path": "/v1/sagamu-day-2026/matches-upcoming.json",
+      "bytes": 29824,
+      "sha256": "b3b6cbeb302b1a766335c7ddf7b194bb2e35e80b1dc600c45116345d24d8282c"
+    },
+    {
+      "file": "matches-results.json",
+      "path": "/v1/sagamu-day-2026/matches-results.json",
+      "bytes": 73,
+      "sha256": "9c55f4641ed0c6cd47a54696a892e66a72177f77ecc2bca0d9d01f9458d70c53"
+    },
+    {
+      "file": "standings.json",
+      "path": "/v1/sagamu-day-2026/standings.json",
+      "bytes": 9428,
+      "sha256": "d29a599ed695c7412b85e85382cb6be07706accae3f16d026479a2b22211ed53"
+    },
+    {
+      "file": "scorers.json",
+      "path": "/v1/sagamu-day-2026/scorers.json",
+      "bytes": 59,
+      "sha256": "36c012ce3b27cde9165ed2a849669cb9ffacc913c229e741f9d0fb07efe287b7"
+    },
+    {
+      "file": "top-scorers.json",
+      "path": "/v1/sagamu-day-2026/top-scorers.json",
+      "bytes": 59,
+      "sha256": "36c012ce3b27cde9165ed2a849669cb9ffacc913c229e741f9d0fb07efe287b7"
+    },
+    {
+      "file": "assists.json",
+      "path": "/v1/sagamu-day-2026/assists.json",
+      "bytes": 59,
+      "sha256": "5ccf0919e60101bceb8a93857bf3e43034cb8e67c0db78f793b2a45c9992bc6e"
+    },
+    {
+      "file": "cards.json",
+      "path": "/v1/sagamu-day-2026/cards.json",
+      "bytes": 57,
+      "sha256": "0c2c60d393bb39659c82df8048d6745f47b204bb44a6ee600da1e1a1cd068653"
+    },
+    {
+      "file": "match-events.json",
+      "path": "/v1/sagamu-day-2026/match-events.json",
+      "bytes": 59,
+      "sha256": "648694b365ecaf3eddd29f83080ae071f01e4b8567ed2d75bae85dfbdcf5372c"
+    },
+    {
+      "file": "lineups.json",
+      "path": "/v1/sagamu-day-2026/lineups.json",
+      "bytes": 59,
+      "sha256": "648694b365ecaf3eddd29f83080ae071f01e4b8567ed2d75bae85dfbdcf5372c"
+    },
+    {
+      "file": "statistics.json",
+      "path": "/v1/sagamu-day-2026/statistics.json",
+      "bytes": 59,
+      "sha256": "648694b365ecaf3eddd29f83080ae071f01e4b8567ed2d75bae85dfbdcf5372c"
+    },
+    {
+      "file": "knockout.json",
+      "path": "/v1/sagamu-day-2026/knockout.json",
+      "bytes": 491,
+      "sha256": "97e9bed9d9917ce5242f0d655bf6bea95480e2745a23df40fdba15863664770d"
+    },
+    {
+      "file": "awards.json",
+      "path": "/v1/sagamu-day-2026/awards.json",
+      "bytes": 58,
+      "sha256": "dfeb71b47d5ebbc39875c7d7493f3ba617431b62c623938591095674a278ac62"
+    }
+  ]
+}
