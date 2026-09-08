@@ -5,8 +5,14 @@
   "required": [
     "id",
     "round",
+    "group_id",
+    "match_number",
+    "date",
+    "kickoff_time",
+    "timezone",
     "home_team_id",
     "away_team_id",
+    "venue_id",
     "status",
     "score"
   ],
@@ -18,16 +24,20 @@
       "type": "string"
     },
     "group_id": {
-      "type": [
-        "string",
-        "null"
-      ]
+      "type": "string"
     },
     "match_number": {
-      "type": [
-        "integer",
-        "null"
-      ]
+      "type": "integer"
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "kickoff_time": {
+      "type": "string"
+    },
+    "timezone": {
+      "type": "string"
     },
     "home_team_id": {
       "type": "string"
@@ -35,7 +45,19 @@
     "away_team_id": {
       "type": "string"
     },
+    "home_team": {
+      "type": "string"
+    },
+    "away_team": {
+      "type": "string"
+    },
     "venue_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "venue": {
       "type": [
         "string",
         "null"

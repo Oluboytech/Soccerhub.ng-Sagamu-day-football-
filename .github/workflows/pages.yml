@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'data/**'
+      - 'assets/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 
@@ -36,7 +37,12 @@ jobs:
       - name: Prepare API files
         run: |
           mkdir -p public
+
+          # Publish competition data
           cp -r data/. public/
+
+          # Publish team/player/venue assets
+          cp -r assets public/
 
           cat > public/index.html <<'HTML'
           <!DOCTYPE html>

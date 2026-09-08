@@ -7,7 +7,7 @@
       "short_name": "Igbobi",
       "code": null,
       "group_id": "SD26-G-A",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/igbobi-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -18,7 +18,7 @@
       "short_name": "Ayanperuwa",
       "code": null,
       "group_id": "SD26-G-A",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/ayanperuwa-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -29,7 +29,7 @@
       "short_name": "Ajaka",
       "code": null,
       "group_id": "SD26-G-A",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/ajaka-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -40,7 +40,7 @@
       "short_name": "Ewuga",
       "code": null,
       "group_id": "SD26-G-A",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/ewuga-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -51,7 +51,7 @@
       "short_name": "Sonyindo",
       "code": null,
       "group_id": "SD26-G-B",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/sonyindo-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -62,7 +62,7 @@
       "short_name": "Sotubo",
       "code": null,
       "group_id": "SD26-G-B",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/sotubo-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -84,7 +84,7 @@
       "short_name": "Idado",
       "code": null,
       "group_id": "SD26-G-B",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/idado-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -95,7 +95,7 @@
       "short_name": "Latawa",
       "code": null,
       "group_id": "SD26-G-C",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/latawa-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -106,7 +106,7 @@
       "short_name": "Apele",
       "code": null,
       "group_id": "SD26-G-C",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/apele-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -117,7 +117,7 @@
       "short_name": "Aruba",
       "code": null,
       "group_id": "SD26-G-C",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/aruba-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -128,7 +128,7 @@
       "short_name": "Isote",
       "code": null,
       "group_id": "SD26-G-C",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/isote-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -150,18 +150,18 @@
       "short_name": "Oba Orimadegbon",
       "code": null,
       "group_id": "SD26-G-D",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/oba-orimadegbon-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
     },
     {
       "id": "SD26-D03",
-      "name": "Iraye FC",
-      "short_name": "Iraye",
+      "name": "Ilaye FC",
+      "short_name": "Ilaye",
       "code": null,
       "group_id": "SD26-G-D",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/ilaye-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -172,7 +172,7 @@
       "short_name": "Sabo",
       "code": null,
       "group_id": "SD26-G-D",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/sabo-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -183,7 +183,7 @@
       "short_name": "Agura",
       "code": null,
       "group_id": "SD26-G-E",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/agura-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -194,7 +194,7 @@
       "short_name": "Lalu",
       "code": null,
       "group_id": "SD26-G-E",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/lalu-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -205,7 +205,7 @@
       "short_name": "Agbele",
       "code": null,
       "group_id": "SD26-G-E",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/agbele-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -216,7 +216,7 @@
       "short_name": "Abafon",
       "code": null,
       "group_id": "SD26-G-E",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/abafon-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -227,7 +227,7 @@
       "short_name": "Emuren",
       "code": null,
       "group_id": "SD26-G-F",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/emuren-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -249,7 +249,7 @@
       "short_name": "Igbepa",
       "code": null,
       "group_id": "SD26-G-F",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/igbepa-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -260,7 +260,7 @@
       "short_name": "Aladiye",
       "code": null,
       "group_id": "SD26-G-F",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/aladiye-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -271,7 +271,7 @@
       "short_name": "Agbowa",
       "code": null,
       "group_id": "SD26-G-G",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/agbowa-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -282,7 +282,7 @@
       "short_name": "Isoso",
       "code": null,
       "group_id": "SD26-G-G",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/isoso-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -293,7 +293,7 @@
       "short_name": "Lowa Ibu",
       "code": null,
       "group_id": "SD26-G-G",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/lowa-ibu-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -304,7 +304,7 @@
       "short_name": "Ogijo",
       "code": null,
       "group_id": "SD26-G-G",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/ogijo-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -315,7 +315,7 @@
       "short_name": "Sabintu",
       "code": null,
       "group_id": "SD26-G-H",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/sabintu-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -337,7 +337,7 @@
       "short_name": "Apaken",
       "code": null,
       "group_id": "SD26-G-H",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/apaken-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
@@ -348,7 +348,7 @@
       "short_name": "Surulere",
       "code": null,
       "group_id": "SD26-G-H",
-      "logo": null,
+      "logo": "assets/sagamu-day-2026/teams/surulere-fc.jpg",
       "coach": null,
       "location": "Sagamu",
       "status": "active"
